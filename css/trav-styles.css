@@ -1,0 +1,114 @@
+.mainImage {
+  padding-top: 17rem;
+  padding-bottom: 12.5rem;
+  text-align: center;
+  color: #fff;
+  background-image: url("/tennis2.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+}
+.mainImage-part2 {
+  font-size: 2.25rem;
+  font-style: italic;
+  line-height: 2.25rem;
+  margin-bottom: 2rem;  font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+.mainImage-part1 {
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 4.5rem;
+  margin-bottom: 4rem;
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+.mainbody {
+  padding-top: 85px;
+}
+
+.light-grey {
+  color:grey;
+}
+
+.background-color-trav {
+  background-color: #c9f364;
+}
+.products {
+  display:block;
+}
+
+.imgwidth {
+  width: 500px;
+}
+.imgheight {
+  height: 600px;
+}
+.imgheight2 {
+  height: 300px;
+}
+.backBlue {
+    background-color: #deeff5;
+    width: 80%;
+    margin: auto;
+}
+.specs {
+  width: 70%;
+  margin: auto;
+}
+.padBottom {
+  padding-top: 50px;
+}
+.horLine {
+  align-items: center;
+  align-content: center;
+  margin: auto;
+  margin-bottom: 20px;
+  width: 400px;
+}
+.colHeight {
+  height: 300px;
+}
+.colHeight2 {
+  height: 700px;
+}
+
+.padBot {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+.row-height {
+  height: 350px;
+}
+.widHei {
+  height: 350px;
+  line-height: 350px;
+  width: 40%;
+  margin:auto;
+}
+.pastelRed {
+  background-color: #fddfdf;
+}
+.pastelYellow {
+  background-color: #fcf7de;
+}
+.pastelGreen {
+  background-color: #defde0;
+}
+.pastelPurple {
+  background-color: #f0defd;
+}
+.grid {
+  margin:auto;
+}
+.temp {
+  display: table-cell;
+  vertical-align: middle
+}
+.temp1 {
+  padding-top: 100px;
+}
+.logo {
+  width: 100px;
+}
